@@ -1,2 +1,2 @@
 # demo-workshop
-This is a demo for workshop. It washeld in Mysore VVCE
+This is a demo for workshop.<br> It washeld in Mysore VVCE
